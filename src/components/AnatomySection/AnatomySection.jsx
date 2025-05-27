@@ -12,7 +12,7 @@ const AnatomySection = ({ indicators }) => {
       <h2 className="text-xl font-semibold text-brand-text mb-4">Dashboard Overview</h2>
       <div className="relative w-full max-w-[260px] mx-auto md:max-w-[280px] my-auto"> 
         <img
-          src="/body-anatomy.jpg" 
+          src="/images/body-anatomy.jpg" 
           alt="Anatomical Illustration"
           className="w-full h-auto"
         />
