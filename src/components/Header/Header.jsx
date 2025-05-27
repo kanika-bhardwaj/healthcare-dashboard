@@ -21,7 +21,7 @@ const Header = ({ userData }) => {
         
         <div className="flex items-center space-x-3">
           <img
-            src={'/user-avatar.png'}
+            src={'/images/user-avatar.png'}
             alt={userData.name}
             className="w-10 h-10 rounded-full object-cover"
           />
