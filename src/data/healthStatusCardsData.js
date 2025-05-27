@@ -5,7 +5,7 @@ export const healthStatusCardsData = [
     date: '12 Oct 2021', 
     statusColor: 'status-red', 
     issue: 'Asthma', 
-    imagePath: '/lungs.png',
+    imagePath: '/images/lungs.png',
     progress: 30, 
   },
   {
@@ -14,7 +14,7 @@ export const healthStatusCardsData = [
     date: '10 Oct 2021', 
     statusColor: 'status-green',
     issue: 'No issues', 
-    imagePath: '/teeth.png',
+    imagePath: '/images/teeth.png',
     progress: 90,
   },
   {
@@ -23,7 +23,7 @@ export const healthStatusCardsData = [
     date: '08 Oct 2021', 
     statusColor: 'brand-orange', 
     issue: 'Normal', 
-    imagePath: '/bone.png', 
+    imagePath: '/images/bone.png', 
     progress: 40, 
   },
 ];
